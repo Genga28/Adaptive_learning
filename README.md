@@ -17,7 +17,7 @@ EduQuest, once a promising player in the EdTech industry, encountered challenges
 •	Utilize quizzes to pinpoint weaker areas in students' knowledge and recommend targeted learning concepts.
 
 
-**System Description: **
+**System Description:**
 
 The system amalgamates data analysis, dynamic programming, greedy algorithms, and Power BI to bolster decision-making. Historical data is managed using SQLite3, while Power BI is employed for visualizing insights. Dynamic learning trails, time management, and gamification features are integrated into the EduQuest platform to enrich the learning experience.
 
@@ -38,9 +38,9 @@ The system amalgamates data analysis, dynamic programming, greedy algorithms, an
 3.	Time Management
 4.	Gamification Integration
 5.	Quiz and Assessment
+
    
-**
-Dataset/Database Description:**
+**Dataset/Database Description:**
  
 Historical data encompasses user interactions, course progress, feedback, and performance metrics. The SQLite3 database facilitates efficient storage and retrieval of this data, ensuring seamless analysis.
 
@@ -61,7 +61,7 @@ Historical data encompasses user interactions, course progress, feedback, and pe
 •	Frontend: Web-based platform for EduQuest
 
 
-**Final Output: **
+**Final Output:**
 
 The culmination is a revitalized EduQuest platform featuring dynamic learning trails, refined time management tools, gamification elements, and quiz functionality. Students embark on personalized learning journeys, optimized study schedules, heightened engagement, and targeted support for weaker areas.
 
@@ -74,6 +74,7 @@ The culmination is a revitalized EduQuest platform featuring dynamic learning tr
 •	Technical Integration: Integrating Power BI with the existing platform for seamless data visualization.
 •	Continuous Enhancement: Iteratively refining the system based on user feedback and performance metrics.
 
-Conclusion: 
+
+**Conclusion:**
 The resurgence strategy for EduQuest epitomizes a holistic approach to rejuvenating the company's operations and elevating student outcomes. Through data-driven insights and innovative features, EduQuest aspires to reclaim its position as a leading provider of personalized and engaging learning experiences in the EdTech domain.
 
